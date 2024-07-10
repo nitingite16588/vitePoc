@@ -1,0 +1,20 @@
+{
+  "navItem": [
+    {
+      "name": "About",
+      "link": "/about"
+    },
+    {
+      "name": "DashBoard",
+      "link": "/about"
+    },
+    {
+      "name": "Forms",
+      "link": "/about"
+    },
+    {
+      "name": "Contacs",
+      "link": "/about"
+    }
+  ]
+}
